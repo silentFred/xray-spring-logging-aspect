@@ -19,7 +19,7 @@
         <spring.version>5.2.6.RELEASE</spring.version>
         <spring-boot-starter-test.version>2.3.0.RELEASE</spring-boot-starter-test.version>
 
-        <jackson.version>2.11.0</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <logback-classic.version>1.2.3</logback-classic.version>
         <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
